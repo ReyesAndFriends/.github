@@ -1,4 +1,7 @@
-# Reyes&Friends 👑
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cc99c118-9ecf-422f-8a15-d130b29f6e09" alt="logo-reyesandfriends" width="25%" />
+</p>
+
 
 Bienvenido al perfil oficial de **Reyes&Friends**, una empresa chilena dedicada al desarrollo de software a medida y soluciones tecnológicas personalizadas. Creamos herramientas digitales que impulsan la productividad y la transformación digital de nuestros clientes.
 
