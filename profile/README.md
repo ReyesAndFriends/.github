@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cc99c118-9ecf-422f-8a15-d130b29f6e09" alt="logo-reyesandfriends" width="25%" />
+  <img src="https://github.com/user-attachments/assets/46a61f38-9e31-458d-aa43-3bfec13c7dc7" alt="logo-reyesandfriends" width="50%" />
 </p>
-
 
 Bienvenido al perfil oficial de **Reyes&Friends**, una empresa chilena dedicada al desarrollo de software a medida y soluciones tecnológicas personalizadas. Creamos herramientas digitales que impulsan la productividad y la transformación digital de nuestros clientes.
 
